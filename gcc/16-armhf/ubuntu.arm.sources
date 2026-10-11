@@ -1,13 +1,13 @@
 Types: deb
 URIs: http://ports.ubuntu.com/ubuntu-ports/
-Suites: questing questing-updates questing-backports
+Suites: resolute resolute-updates resolute-backports
 Components: main universe restricted multiverse
 Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
 Architectures: arm64 armhf
 
 Types: deb
 URIs: http://ports.ubuntu.com/ubuntu-ports/
-Suites: questing-security
+Suites: resolute-security
 Components: main universe restricted multiverse
 Signed-By: /usr/share/keyrings/ubuntu-archive-keyring.gpg
 Architectures: arm64 armhf

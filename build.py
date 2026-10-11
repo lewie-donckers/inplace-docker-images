@@ -1,13 +1,12 @@
 #!/bin/env python3
 
-import __main__
 import argparse
 import glob
 import os
 import subprocess
 import sys
 
-IMAGE_VERSION = "0.1"
+IMAGE_VERSION = "0.2"
 IMAGE_REPO = "lewiedonckers/inplace-library-build"
 
 
